@@ -71,7 +71,7 @@ width:44px;padding:0 8px;
     font-family:'Ubuntu',sans-serif;
     font-size: 17px;
 }
-.songInfo img        /*gif*/
+.songInfo img          /*gif*/
 {
     opacity:0 ;
     transition:opacity s ease-in;
